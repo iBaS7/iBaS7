@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iBaS7
+- 👋 Hi, I’m iBaS7
 - 👀 I’m interested in coding & programming
 - 🌱 I’m currently learning SQL, Python & C#
 - 💞️ I’m looking to collaborate on projects of coding.
